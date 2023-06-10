@@ -1,6 +1,6 @@
 # My Weather App
 
-My Weather App é um projeto de um app de previsão metereologica, onde é possível verificar as condições climaticas das próximas 24h da cidade que desejar escolher.
+My Weather App é um projeto de um app de previsão metereologica, onde é possível verificar as condições climáticas das próximas 24h da cidade que desejar escolher.
 
 Feito em React, TypeScript, Tailwind CSS e com o consumo da Api do site "OpenWeatherMap". Foram utilizado conceitos como: props, tipagem, components, hooks, resposividade, entre outros.
 
