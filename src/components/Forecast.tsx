@@ -37,7 +37,7 @@ const Forecast = ({ data }: DataProps): JSX.Element => {
             <Degree temp={Math.round(today.main.temp)} />
           </h1>
           <p className="text-sm">
-            {today.weather[0].main} {today.weather[0].description}
+            {today.weather[0].main} ({today.weather[0].description})
           </p>
           <p className="text-sm">
             max: <Degree temp={Math.ceil(today.main.temp_max)} /> min:{" "}
